@@ -1,0 +1,52 @@
+Partlist
+
+Exported from Arduino-Shield.brd at 2022/05/28 1:31
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                                                    Package                             Library                      Position (mil)        Orientation
+
+ALT1                                                              B3B-XH-A                            jst-xh                       (1952.5 1137.5)       R270
+ALT2                                                              B3B-XH-A                            jst-xh                       (1952.5 740)          R270
+ALT3                                                              B3B-XH-A                            jst-xh                       (1652.5 1137.5)       R90
+ALT4                                                              B3B-XH-A                            jst-xh                       (1890 347.5)          R180
+BALL1                                                             B3B-XH-A                            jst-xh                       (1450 1550)           R90
+BALL2                                                             B3B-XH-A                            jst-xh                       (1450 1950)           R90
+BALL3                                                             B3B-XH-A                            jst-xh                       (1450 2350)           R90
+BALL4                                                             B3B-XH-A                            jst-xh                       (1450 2750)           R90
+C1       10uF                                                     E2-5                                rcl                          (1295 1210)           R180
+C2       10uF                                                     E2-5                                rcl                          (1600 800)            R0
+C3       0.1uF                                                    C1608                               rcl                          (1000 700)            R0
+C4       0.1uF                                                    C1608                               rcl                          (1365 1105)           MR0
+C5       0.1uF                                                    C1608                               rcl                          (380 1285)            MR90
+C7       0.1uF                                                    C1608                               rcl                          (965 1180)            MR180
+C8       0.1uF                                                    C1608                               rcl                          (1445 960)            MR270
+I2C                                                               B4B-XH-A                            jst-xh                       (1000 2550)           R270
+LINE1                                                             B3B-XH-A                            jst-xh                       (1750 1550)           R270
+LINE2                                                             B3B-XH-A                            jst-xh                       (1750 1950)           R270
+LINE3                                                             B3B-XH-A                            jst-xh                       (1750 2350)           R270
+LINE4                                                             B3B-XH-A                            jst-xh                       (1750 2750)           R270
+M1                                                                AK500/2-H                           con-ptr500                   (120 850)             R90
+M2                                                                AK500/2-H                           con-ptr500                   (120 430)             R90
+M3                                                                AK500/2-H                           con-ptr500                   (1045 320)            R180
+M4                                                                AK500/2-H                           con-ptr500                   (1470 320)            R180
+MCP3008  MCP3008                                                  DIL16                               adafruit                     (970 1545)            R90
+PCF8574N TEXAS_INSTRUMENTS_PCF8574NTEXAS_INSTRUMENTS_PCF8574N_0_0 TEXAS_INSTRUMENTS_PCF8574N_0        Texas Instruments - PCF8574N (450 1550)            R180
+PING1                                                             B3B-XH-A                            jst-xh                       (600 2750)            R270
+PING2                                                             B3B-XH-A                            jst-xh                       (600 2350)            R270
+PING3                                                             B3B-XH-A                            jst-xh                       (300 2750)            R90
+PING4                                                             B3B-XH-A                            jst-xh                       (300 2350)            R90
+R1       0                                                        M2012                               rcl                          (700 1300)            MR0
+R2       0                                                        M2012                               rcl                          (700 1200)            MR0
+R3       0                                                        M2012                               rcl                          (700 1400)            MR0
+R4       10k                                                      R0603                               rcl                          (500 1200)            MR180
+R5       10k                                                      R0603                               rcl                          (500 1300)            MR180
+R6       10k                                                      R0603                               rcl                          (500 1400)            MR180
+RST      TS-06104                                                 TS-06104                            0@Mylibrary-main1            (622.5 392.5)         R180
+SCL      10k                                                      R0603                               rcl                          (1100 2500)           MR180
+SDA      10k                                                      R0603                               rcl                          (1100 2600)           MR180
+U$1      TB6612FNG                                                SSOP24                              SparkFun-IC-Special-Function (650 800)             R270
+U$2      TB6612FNG                                                SSOP24                              SparkFun-IC-Special-Function (1300 800)            R0
+U1       ARDUINO_DUEMILANOVENOHOLESORLABELS                       DUEMILANOVE_SHIELD_NOHOLES_NOLABELS SparkFun-Retired             (0 600)               R0
